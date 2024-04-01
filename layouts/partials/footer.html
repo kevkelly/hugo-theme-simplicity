@@ -1,0 +1,10 @@
+<footer>
+    <p>Copyright {{ now.Year }}. All rights reserved.</p>
+    {{- if site.Params.social -}}
+    <ul>
+        {{- range site.Params.social -}}
+        <li>{{- .name -}}</li>
+        {{- end -}}
+    </ul>
+    {{- end -}}
+</footer>

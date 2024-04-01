@@ -1,0 +1,19 @@
+name = 'Simplicity'
+license = 'MIT'
+licenselink = 'https://github.com/kevkelly/hugo-theme-simplicity/blob/main/LICENSE'
+description = 'Minimalistic Hugo theme'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/kevkelly/hugo-theme-simplicity'
+
+# If you have a running demo of the theme
+demosite = 'https://owner.github.io/repo'
+
+# Taxonomy terms
+tags = ['blog', 'responsive', 'minimal']
+features = ['responsive', 'theme-toggle']
+
+# If the theme has a single author
+[author]
+  name = 'Kev Kelly'
+  homepage = 'https://kevkelly.co.uk/'

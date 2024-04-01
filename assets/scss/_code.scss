@@ -1,0 +1,9 @@
+pre, code {
+    font-family: var(--monospace);
+    font-kerning: none;
+    font-variant-ligatures: none;
+}
+
+pre.chroma {
+    overflow: auto;
+}
